@@ -30,6 +30,8 @@ forum-*.tar
 
 /config/dev.exs
 
+# penting env
+
 .env 
 
 # Ignore digested assets cache.
